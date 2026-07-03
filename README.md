@@ -28,7 +28,7 @@ StudySync-Landing-Page/
 │
 ├── index.html
 ├── style.css
-├── assets/
+├── images/
 ├── screenshots/
 └── README.md
 ```
@@ -58,7 +58,7 @@ This project helped strengthen understanding of:
 
 ## Author
 
-Your Name
+Chhaya Dewangan
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/chhaya002
 
